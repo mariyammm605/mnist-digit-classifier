@@ -10,7 +10,4 @@ A simple neural network that recognizes handwritten digits (0-9) with **~98% acc
 1. Install requirements: `pip install -r requirements.txt`
 2. Run: `python digit_classifier.py`
 
-## Results
-![Sample Output](https://miro.medium.com/v2/resize:fit:1400/1*HyHf7Qe8l0hRYcKj0uLhSg.png)
-*(Example image - you can find one via Google Images)*
 
